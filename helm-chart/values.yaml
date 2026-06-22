@@ -1,0 +1,4 @@
+image:
+  repository: 482421580240.dkr.ecr.us-east-1.amazonaws.com/amazon-clone
+  pullPolicy: Always
+  tag: latest
